@@ -7,8 +7,7 @@ The model is deployed as an **interactive Streamlit web app** where users can in
 
 ## 🌐 Live Demo
 
-👉 **Streamlit App:**
-([https://real-estate-price-ml.streamlit.app/](https://real-estate-price-prediction-ml-mcfrmsdwe3lngdmqgggswy.streamlit.app/))](https://real-estate-price-prediction-ml-mcfrmsdwe3lngdmqgggswy.streamlit.app/)
+👉 **Streamlit App:**(https://real-estate-price-prediction-ml-mcfrmsdwe3lngdmqgggswy.streamlit.app/)
 
 ---
 
